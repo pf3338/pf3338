@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phil, an <a href="www.linkedin.com/in/pfisseha">IT Professional</a>☺</h1>
+<h1>Hi, I'm Phil, an <a href="https://linkedin.com/in/pfisseha">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
