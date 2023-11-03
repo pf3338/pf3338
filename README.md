@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+[instagram]: https://instagram.com/phil.itcc?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr
 [linkedin]: https://www.linkedin.com/in/pfisseha
